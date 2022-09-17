@@ -47,4 +47,4 @@ python3 time-test.py
 
 If you use this code, please cite us!
 
-Silva, Mateus, et al. "Designing a Multiple-User Wearable Edge AI system towards Human Activity Recognition." 2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC). IEEE, 2022.
+Silva, Mateus, et al. "Designing a Multiple-User Wearable Edge AI system towards Human Activity Recognition." _2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC)._ IEEE, 2022.
