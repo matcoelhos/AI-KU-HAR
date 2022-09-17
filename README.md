@@ -6,7 +6,7 @@ Based on tensorflow (should be agnostic to version).
 ---
 ## Instructions
 
-Download and unzip the data:
+### Download and unzip the data:
 
 ```
  wget https://data.mendeley.com/public-files/datasets/45f952y38r/files/49c6120b-59fd-466c-97da-35d53a4be595/file_downloaded -O data.zip
