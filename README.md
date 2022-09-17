@@ -1,7 +1,7 @@
 # AI-KU-HAR
 
 Repository used to develop an LSTM-based solution for HAR.
-Based on tensorflow (should be agnostic to version).
+Based on Keras and Tensorflow (should be agnostic to version).
 
 ---
 ## Instructions
