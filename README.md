@@ -42,4 +42,9 @@ python3 convert.py
 ```
 python3 time-test.py
 ```
+---
+## Info
 
+If you use this code, please cite us!
+
+Silva, Mateus, et al. "Toward the design of a novel wearable system for field research in ecology." 2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC). IEEE, 2022.
