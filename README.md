@@ -47,4 +47,4 @@ python3 time-test.py
 
 If you use this code, please cite us!
 
-Silva, Mateus, et al. "Toward the design of a novel wearable system for field research in ecology." 2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC). IEEE, 2022.
+Silva, Mateus, et al. "Designing a Multiple-User Wearable Edge AI system towards Human Activity Recognition." 2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC). IEEE, 2022.
